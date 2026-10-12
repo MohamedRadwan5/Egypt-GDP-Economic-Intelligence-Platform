@@ -1,4 +1,4 @@
-# 🇪🇬 Egypt GDP — Economic Intelligence Platform
+#  Egypt GDP — Economic Intelligence Platform
 
 <p align="center">
   <strong>Masr Economic Pulse</strong>
